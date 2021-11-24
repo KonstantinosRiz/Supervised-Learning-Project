@@ -4,5 +4,5 @@ In this project is a an experiment with the basics classifiers of supervised lea
 
 File echocardiogram.data contains the dataset, witch has to be uploaded to googlecolab dute run the code file.
 
-# Lisence
+# License
 https://choosealicense.com/licenses/mit/
